@@ -50,3 +50,5 @@ Run
  Works only when you in that spesific repository 
 
  command git add -A means add all 
+
+ If you stuck in terminal please use command esc :wq
