@@ -1,5 +1,9 @@
 # Github-Tutorial-For-Beginners
 
+Creat new repository in github website.
+
+
+
  Clone HTTPS https://github.com/brunurupucis/Github-Tutorial-For-Beginners.git
 
 In the terminal use commands cd and ls. 
@@ -52,3 +56,5 @@ Run
  command git add -A means add all 
 
  If you stuck in terminal please use command esc :wq
+
+ command git init if you making new repository on computer ( not online)
