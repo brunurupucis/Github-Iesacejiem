@@ -11,6 +11,8 @@ New file index.html
 
 Add some html text
 
+save file 
+
 Terminal
 
 command git status ( Will show you difference between you and github).
